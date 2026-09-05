@@ -61,8 +61,3 @@ JustJoinJobFinder/
   Worker.cs        Background worker, Telegram bot, and offer polling logic
   Program.cs       Application entry point
 ```
-
-## Notes
-
-- Build outputs, Visual Studio metadata, local SQLite databases, logs, and local environment files are ignored by Git.
-- Do not commit real Telegram credentials. Use User Secrets locally and environment variables in deployed environments.
