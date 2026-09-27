@@ -13,6 +13,13 @@ The service currently searches for .NET offers around Warsaw, stores already sen
 - EF Core migrations for the `SentOffers` table.
 - Automatic polling every 5 minutes.
 
+##  Screenshots
+
+<div align="center">
+  <img width="535" height="884" alt="Знімок екрана 2026-09-27 225211" src="https://github.com/user-attachments/assets/4e683b95-3221-4c34-983b-49bbbd8dc5ea" />
+</div>
+
+
 ## Requirements
 
 - .NET 10 SDK
